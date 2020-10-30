@@ -23,10 +23,14 @@ ___
 * Linux
 * Interface réseaux
 
+Mon ordinateur fixe est sous linux, mon ordinateur portable est sous windows.
+J'aimerais bien faire du KVM sur mon fixe pour y acceuillir Linux et Windows.
+
 ### J'aimerais bien **apprendre** :
 
 * L'animation de SVG
 * La création de Jeux vidéos
+* JAVA
 
 J'ai quelque connaissance de blender, photoshop, indesign, premiere pro, after effect, illustrator.
 
