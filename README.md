@@ -1,7 +1,7 @@
 # ![Banniere](./Images/Banniere_GitHub.jpg)
 
 <p align="center">
-<a target="_blank" href="https://svenremond.github.io/CV_interactif.github.io/index.html"><img height="40px" src="./Images/globe-solid.svg"> &nbsp&nbsp&nbsp&nbsp
+<a target="_blank" href="https://svenremond.github.io/"><img height="40px" src="./Images/globe-solid.svg"> &nbsp&nbsp&nbsp&nbsp
 <a target="_blank" href="https://fr.linkedin.com/in/sven-remond-4471a8193?trk=public_profile_browsemap_profile-result-card_result-card_full-click"><img height="40px" src="./Images/linkedin-brands.svg" ></a>
 
 </p>
